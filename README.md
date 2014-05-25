@@ -54,7 +54,7 @@ We will imagine a Django site, an e-commerce site that serves multiple stores in
     from django.conf import settings
     from django.conf.urls import patterns, include, url
     
-    urlpatterns = country_language_patterns('',
+    urlpatterns = patterns('',
       url(r'^(?:%s)?/' % '|'.join(
         ''.join(
           '[%s%s]' % (c.upper(), c.lower()) for c in country
