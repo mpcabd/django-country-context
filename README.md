@@ -112,4 +112,4 @@ Using the setup above will allow the views to call the query the Store model wit
 [Django Country Context on source code on GitHub](https://github.com/mpcabd/django-country-context/)
 
 ## Read Blog Post
-[Django Country Context on mpcabd.igeex.biz](http://mpcabd.igeex.biz/django-country-context/)
+[Django Country Context on mpcabd.igeex.biz](http://mpcabd.xyz/django-country-context/)
